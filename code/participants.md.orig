@@ -1,0 +1,11 @@
+Assignment #1
+Getting started with git
+
+Added changes online - Assignment 1.8
+<<<<<<< HEAD
+Assiginmet 1.10 local changes
+
+=======
+
+Assignment 1.10 second set of changes
+>>>>>>> fb86e6a6261fc12d26b8587e11cca7657cfc5a88

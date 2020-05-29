@@ -1,0 +1,5 @@
+# ignore all files in any directory named tmp
+tmp/
+# ignore all files end with .apy
+*.apy
+!myfile.apy
